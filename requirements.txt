@@ -1,0 +1,7 @@
+pandas
+numpy
+google-search-results
+serpapi
+httpx==0.24.1
+youtube-search-python
+-e .
